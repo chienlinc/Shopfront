@@ -1,3 +1,30 @@
+# React, Bootstrap, Firebase
+
+### Note: change FIREBASE_URL in FirebaseLink.js
+
+# Reference
+
+## Youtube
+
+### https://www.youtube.com/watch?v=Dorf8i6lCuk
+### https://www.youtube.com/watch?v=Ke90Tje7VS0
+
+## Javascript
+
+### https://nodejs.dev/learn/javascript-asynchronous-programming-and-callbacks
+### https://nodejs.dev/learn/understanding-javascript-promises
+### https://nodejs.dev/learn/modern-asynchronous-javascript-with-async-and-await
+
+## Bootstrap
+
+### https://getbootstrap.com/docs/4.1/examples/album/
+### https://getbootstrap.com/docs/4.1/components/badge/
+### https://getbootstrap.com/docs/4.1/components/buttons/
+### https://getbootstrap.com/docs/4.1/components/card/
+### https://getbootstrap.com/docs/4.1/components/forms/
+### https://getbootstrap.com/docs/4.1/components/modal/
+### https://getbootstrap.com/docs/4.1/components/navbar/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
