@@ -1,9 +1,11 @@
 import { Link } from "react-router-dom";
 import "./myNavigation.css";
+import styles from "./myNavigation.module.css";
+import "./myNavigation.scss";
 import { useContext } from "react";
 import { FavoritesContext } from "../../store/favorites_context";
 
-const SecondNavigation = () => {
+const MyNavigation = () => {
   const favoritesCtx = useContext(FavoritesContext);
 
   return (
@@ -31,9 +33,9 @@ const SecondNavigation = () => {
             <li className="nav-item">
               <Link
                 to="/"
-                className="nav-link link-size"
+                className={`nav-link ${styles.linksize}`}
                 aria-current="page"
-                style={{ fontSize: 25 }}
+                // style={{ fontSize: 25 }}
               >
                 All Meetups
               </Link>
@@ -44,7 +46,7 @@ const SecondNavigation = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/favorites" className="nav-link link-size">
+              <Link to="/favorites" className="nav-link link-size-2">
                 Your Favorites
                 <span className="badge badge-light">
                   {favoritesCtx.totalFavorites}
@@ -58,4 +60,4 @@ const SecondNavigation = () => {
   );
 };
 
-export default SecondNavigation;
+export default MyNavigation;

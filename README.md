@@ -1,29 +1,46 @@
 # React, Bootstrap, Firebase
 
-### Note: change FIREBASE_URL in FirebaseLink.js
+#### Note: change FIREBASE_URL in FirebaseLink.js
 
 # Reference
 
 ## Youtube
 
-### https://www.youtube.com/watch?v=Dorf8i6lCuk
-### https://www.youtube.com/watch?v=Ke90Tje7VS0
+#### https://www.youtube.com/watch?v=Dorf8i6lCuk
+#### https://www.youtube.com/watch?v=Ke90Tje7VS0
+
+## React
+
+#### https://www.w3schools.com/react/default.asp (Pages under React Tutorial) <br />
+##### (Intro, ES6, JSX, Class & Function Components, Props, Events, Conditionals, Lists, Forms, Router, Memo, Styling)
+#### https://www.w3schools.com/react/react_hooks.asp (Pages under React Hooks)
+##### (useState, useEffect, useContext, useRef, useReducer, useCallback, useMemo, Custom Hooks)
+
+## HTML
+
+#### https://www.w3schools.com/html/html_forms.asp (Pages under HTML Forms)
+##### (Form Attributes & Elements, Input Types & Attributes & form* Attributes )
 
 ## Javascript
 
-### https://nodejs.dev/learn/javascript-asynchronous-programming-and-callbacks
-### https://nodejs.dev/learn/understanding-javascript-promises
-### https://nodejs.dev/learn/modern-asynchronous-javascript-with-async-and-await
+#### https://nodejs.dev/learn/javascript-asynchronous-programming-and-callbacks
+#### https://nodejs.dev/learn/understanding-javascript-promises
+#### https://nodejs.dev/learn/modern-asynchronous-javascript-with-async-and-await
 
-## Bootstrap
+## Bootstrap 
 
-### https://getbootstrap.com/docs/4.1/examples/album/
-### https://getbootstrap.com/docs/4.1/components/badge/
-### https://getbootstrap.com/docs/4.1/components/buttons/
-### https://getbootstrap.com/docs/4.1/components/card/
-### https://getbootstrap.com/docs/4.1/components/forms/
-### https://getbootstrap.com/docs/4.1/components/modal/
-### https://getbootstrap.com/docs/4.1/components/navbar/
+#### https://getbootstrap.com/docs/4.6/examples/album/
+#### https://getbootstrap.com/docs/4.6/components/badge/
+#### https://getbootstrap.com/docs/4.6/components/buttons/
+#### https://getbootstrap.com/docs/4.6/components/card/
+#### https://getbootstrap.com/docs/4.6/components/forms/
+#### https://getbootstrap.com/docs/4.6/components/modal/
+#### https://getbootstrap.com/docs/4.6/components/navbar/
+
+
+
+<br/>
+<br/>
 
 # Getting Started with Create React App
 

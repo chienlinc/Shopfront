@@ -4,12 +4,12 @@ import NewMeetupPage from "./pages/NewMeetup";
 import FavoritesPage from "./pages/Favorites";
 import ShoppingCart from "./pages/ShoppingCart";
 
-import SecondNavigation from "./components/layout/MyNavigation";
+import MyNavigation from "./components/layout/MyNavigation";
 
 const App = () => {
   return (
     <div>
-      <SecondNavigation />
+      <MyNavigation />
       <Routes>
         <Route path="/" element={<AllMeetupsPage />} />
         <Route path="/new" element={<NewMeetupPage />} />
